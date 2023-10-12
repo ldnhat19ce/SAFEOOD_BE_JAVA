@@ -1,0 +1,2 @@
+ALTER TABLE `user` DROP FOREIGN KEY user_ibfk_1;
+ALTER TABLE `user` DROP COLUMN shop_id;

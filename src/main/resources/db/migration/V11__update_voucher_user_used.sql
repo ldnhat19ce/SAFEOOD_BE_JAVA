@@ -1,0 +1,1 @@
+ALTER TABLE voucher_user ADD COLUMN used bigint;

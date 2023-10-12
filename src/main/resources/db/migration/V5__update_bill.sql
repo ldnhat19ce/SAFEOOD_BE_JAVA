@@ -1,0 +1,1 @@
+ALTER TABLE bill ADD COLUMN note varchar(255);

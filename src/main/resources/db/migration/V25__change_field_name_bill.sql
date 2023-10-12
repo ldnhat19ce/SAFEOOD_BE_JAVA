@@ -1,0 +1,1 @@
+ALTER TABLE bill RENAME COLUMN isRating TO is_rating;

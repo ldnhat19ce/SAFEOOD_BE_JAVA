@@ -1,0 +1,1 @@
+ALTER TABLE voucher ADD COLUMN quantity bigint;

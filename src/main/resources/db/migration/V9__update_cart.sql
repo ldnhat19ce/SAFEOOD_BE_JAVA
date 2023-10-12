@@ -1,0 +1,1 @@
+ALTER TABLE cart ADD COLUMN delete_flag bit;
